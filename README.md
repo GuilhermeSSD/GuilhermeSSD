@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Sou Guilherme Silva Domingues, atualmente cursando o 3º ano do Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas. Tenho grande interesse por tecnologia e programação, com experiência prática em linguagens como HTML, CSS, JavaScript, PHP e MySQL.
+Sou Guilherme Silva Domingues, estudante de Análise e Desenvolvimento de Sistemas na SPTech School, com formação técnica em Desenvolvimento de Sistemas. Tenho grande interesse por tecnologia e programação, com experiência prática em HTML, CSS, JavaScript, PHP e MySQL. Possuo familiaridade com lógica de programação, banco de dados, versionamento com Git/GitHub e com ferramentas de desenvolvimento como VS Code e MySQL Workbench, buscando constantemente aprimorar meus conhecimentos na área de software e desenvolvimento de sistemas.
 
 
 <p align="left">
